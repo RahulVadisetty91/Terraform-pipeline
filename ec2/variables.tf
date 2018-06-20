@@ -1,6 +1,2 @@
-variable "access_key"{
-      description= "enter access keys"
-}
-variable "secret_key"{
-      description= "enter secret key"
-}
+variable "access_key"{}
+variable "secret_key"{}
